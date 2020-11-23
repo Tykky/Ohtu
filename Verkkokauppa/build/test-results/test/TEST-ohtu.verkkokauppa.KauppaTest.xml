@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtu.verkkokauppa.KauppaTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-11-23T20:32:52" hostname="gentoo" time="0.217">
+  <properties/>
+  <testcase name="testi1" classname="ohtu.verkkokauppa.KauppaTest" time="0.212"/>
+  <testcase name="testi2" classname="ohtu.verkkokauppa.KauppaTest" time="0.001"/>
+  <testcase name="testi3" classname="ohtu.verkkokauppa.KauppaTest" time="0.002"/>
+  <testcase name="testi4" classname="ohtu.verkkokauppa.KauppaTest" time="0.001"/>
+  <testcase name="ostoksenPaaytyttyaPankinMetodiaTilisiirtoKutsutaan" classname="ohtu.verkkokauppa.KauppaTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
