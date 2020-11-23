@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtu.matkakortti.KassapaateTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-23T18:57:59" hostname="gentoo" time="0.182">
+  <properties/>
+  <testcase name="kortilleeiLadataJosSummaNegatiivinen" classname="ohtu.matkakortti.KassapaateTest" time="0.175"/>
+  <testcase name="kortiltaVelotetaanHintaJosRahaaOn" classname="ohtu.matkakortti.KassapaateTest" time="0.006"/>
+  <testcase name="kortilleLadataanJosSummaPositiivinen" classname="ohtu.matkakortti.KassapaateTest" time="0.0"/>
+  <testcase name="kortiltaEiVelotetaJosRahaEiRiita" classname="ohtu.matkakortti.KassapaateTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
