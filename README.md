@@ -8,4 +8,6 @@
 * [viikko 4](https://github.com/Tykky/Ohtu/tree/main/viikko4)
 * [viikko 5](asdasdasdi)
 
-ssdsdsd
+ssdsds
+s
+dsdd
